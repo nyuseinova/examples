@@ -14,6 +14,7 @@ public class Main {
             IO.println("i = " + i);
             // test commit
             // username check
+            // test jira connection
         }
     }
 }
